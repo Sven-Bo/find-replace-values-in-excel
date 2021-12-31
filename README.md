@@ -5,7 +5,7 @@ In this video, I will show you how you can use Python to find and replace multip
 
 ## Video Tutorial
 
-[![YouTube Video](https://img.youtube.com/vi/XXX/0.jpg)](https://youtu.be/XXX)
+[![YouTube Video](https://img.youtube.com/vi/Uyw9fjDKYQY/0.jpg)](https://youtu.be/Uyw9fjDKYQY)
 
 ## Requirements
 ```
